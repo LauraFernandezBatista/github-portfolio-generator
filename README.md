@@ -13,32 +13,32 @@
 ### ⚡ Stats rápidas
 - Seguidores: **0**
 - Siguiendo: **0**
-- Repos públicos: **6**
+- Repos públicos: **7**
 - Gists: **0**
 - Ubicación: **N/A**
 
 ### 🧠 Top lenguajes
-- JavaScript — 33.3%
-- Python — 33.3%
-- HTML — 16.7%
-- CSS — 16.7%
+- JavaScript — 42.9%
+- Python — 28.6%
+- HTML — 14.3%
+- CSS — 14.3%
 
 ### ⭐ Repos destacados
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — ⭐ 0 • JavaScript • 
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — ⭐ 0 • Python • 
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — ⭐ 0 • JavaScript • 
 - [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — ⭐ 0 • Python • 
 - [blog_flask](https://github.com/LauraFernandezBatista/blog_flask) — ⭐ 0 • HTML • 
 - [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — ⭐ 0 • JavaScript • 
-- [browser-extensions-manager-ui-main](https://github.com/LauraFernandezBatista/browser-extensions-manager-ui-main) — ⭐ 0 • CSS • 
 
 ### 🛠️ Últimos proyectos actualizados
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 17h
-- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 1d
-- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 1d
-- [blog_flask](https://github.com/LauraFernandezBatista/blog_flask) — actualizado hace 3d
-- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 3d
-- [browser-extensions-manager-ui-main](https://github.com/LauraFernandezBatista/browser-extensions-manager-ui-main) — actualizado hace 11d
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 19h
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 23h
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 1d
+- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 2d
+- [blog_flask](https://github.com/LauraFernandezBatista/blog_flask) — actualizado hace 4d
+- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 4d
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-19T09:32:20Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-20T09:29:06Z.</sub>
