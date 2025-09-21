@@ -24,21 +24,21 @@
 - CSS — 14.3%
 
 ### ⭐ Repos destacados
-- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — ⭐ 0 • Python • 
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 - [movie-search](https://github.com/LauraFernandezBatista/movie-search) — ⭐ 0 • JavaScript • 
 - [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — ⭐ 0 • Python • 
 - [blog_flask](https://github.com/LauraFernandezBatista/blog_flask) — ⭐ 0 • HTML • 
 - [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — ⭐ 0 • JavaScript • 
 
 ### 🛠️ Últimos proyectos actualizados
-- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 19h
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 23h
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 1d
-- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 2d
-- [blog_flask](https://github.com/LauraFernandezBatista/blog_flask) — actualizado hace 4d
-- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 4d
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 1d
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 2d
+- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 3d
+- [blog_flask](https://github.com/LauraFernandezBatista/blog_flask) — actualizado hace 5d
+- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 5d
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-20T09:29:06Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-21T09:27:55Z.</sub>
