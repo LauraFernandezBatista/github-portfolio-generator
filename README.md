@@ -13,33 +13,33 @@
 ### ⚡ Stats rápidas
 - Seguidores: **0**
 - Siguiendo: **0**
-- Repos públicos: **8**
+- Repos públicos: **9**
 - Gists: **0**
 - Ubicación: **N/A**
 
 ### 🧠 Top lenguajes
-- JavaScript — 37.5%
-- Python — 25.0%
-- PHP — 12.5%
-- HTML — 12.5%
-- CSS — 12.5%
+- JavaScript — 44.4%
+- Python — 22.2%
+- PHP — 11.1%
+- HTML — 11.1%
+- CSS — 11.1%
 
 ### ⭐ Repos destacados
-- [tienda](https://github.com/LauraFernandezBatista/tienda) — ⭐ 0 • PHP • 
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — ⭐ 0 • JavaScript • 
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — ⭐ 0 • Python • 
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — ⭐ 0 • PHP • 
 - [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 - [movie-search](https://github.com/LauraFernandezBatista/movie-search) — ⭐ 0 • JavaScript • 
 - [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — ⭐ 0 • Python • 
-- [blog_flask](https://github.com/LauraFernandezBatista/blog_flask) — ⭐ 0 • HTML • 
 
 ### 🛠️ Últimos proyectos actualizados
-- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 20h
-- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 1d
-- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 2d
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 3d
-- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 4d
-- [blog_flask](https://github.com/LauraFernandezBatista/blog_flask) — actualizado hace 6d
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 20h
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 23h
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 1d
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 3d
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 4d
+- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 5d
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-22T09:35:41Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-23T09:32:55Z.</sub>
