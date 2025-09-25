@@ -19,26 +19,26 @@
 
 ### 🧠 Top lenguajes
 - JavaScript — 44.4%
-- HTML — 22.2%
 - Python — 22.2%
+- HTML — 22.2%
 - PHP — 11.1%
 
 ### ⭐ Repos destacados
-- [landing-page](https://github.com/LauraFernandezBatista/landing-page) — ⭐ 0 • HTML • 
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — ⭐ 0 • Python • 
+- [landing-page](https://github.com/LauraFernandezBatista/landing-page) — ⭐ 0 • HTML • 
 - [todo-list](https://github.com/LauraFernandezBatista/todo-list) — ⭐ 0 • JavaScript • 
 - [tienda](https://github.com/LauraFernandezBatista/tienda) — ⭐ 0 • PHP • 
 - [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 - [movie-search](https://github.com/LauraFernandezBatista/movie-search) — ⭐ 0 • JavaScript • 
 
 ### 🛠️ Últimos proyectos actualizados
-- [landing-page](https://github.com/LauraFernandezBatista/landing-page) — actualizado hace 23h
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 23h
-- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 1d
-- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 2d
-- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 4d
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 5d
+- [landing-page](https://github.com/LauraFernandezBatista/landing-page) — actualizado hace 1d
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 2d
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 3d
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 5d
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 6d
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-24T09:32:44Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-25T09:32:35Z.</sub>
