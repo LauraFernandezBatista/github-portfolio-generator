@@ -33,7 +33,6 @@
 
 ### 🛠️ Últimos proyectos actualizados
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 1d
-- [landing-page](https://github.com/LauraFernandezBatista/landing-page) — actualizado hace 4d
 - [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 5d
 - [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 6d
 - [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 8d
