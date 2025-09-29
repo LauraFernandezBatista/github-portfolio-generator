@@ -13,31 +13,32 @@
 ### ⚡ Stats rápidas
 - Seguidores: **0**
 - Siguiendo: **0**
-- Repos públicos: **9**
+- Repos públicos: **8**
 - Gists: **0**
 - Ubicación: **N/A**
 
 ### 🧠 Top lenguajes
-- JavaScript — 44.4%
-- Python — 22.2%
-- HTML — 22.2%
-- PHP — 11.1%
+- JavaScript — 50.0%
+- Python — 25.0%
+- PHP — 12.5%
+- HTML — 12.5%
 
 ### ⭐ Repos destacados
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — ⭐ 0 • Python • 
-- [landing-page](https://github.com/LauraFernandezBatista/landing-page) — ⭐ 0 • HTML • 
 - [todo-list](https://github.com/LauraFernandezBatista/todo-list) — ⭐ 0 • JavaScript • 
 - [tienda](https://github.com/LauraFernandezBatista/tienda) — ⭐ 0 • PHP • 
 - [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 - [movie-search](https://github.com/LauraFernandezBatista/movie-search) — ⭐ 0 • JavaScript • 
+- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — ⭐ 0 • Python • 
 
 ### 🛠️ Últimos proyectos actualizados
-- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 1d
-- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 5d
-- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 6d
-- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 8d
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 9d
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 19h
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 6d
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 7d
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 9d
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 10d
+- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 11d
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-28T09:28:12Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-29T09:35:37Z.</sub>
