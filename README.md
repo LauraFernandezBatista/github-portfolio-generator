@@ -32,13 +32,13 @@
 - [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — ⭐ 0 • Python • 
 
 ### 🛠️ Últimos proyectos actualizados
-- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 19h
-- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 6d
-- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 7d
-- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 9d
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 10d
-- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 11d
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 23h
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 7d
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 8d
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 10d
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 11d
+- [expense-tracker](https://github.com/LauraFernandezBatista/expense-tracker) — actualizado hace 12d
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-29T09:35:37Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2025-09-30T09:32:48Z.</sub>
