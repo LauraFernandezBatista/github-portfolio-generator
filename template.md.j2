@@ -1,0 +1,43 @@
+<h1 align="center">{{ user.name or user.login }} — {{ tagline }}</h1>
+
+<p align="center">
+  <a href="https://github.com/{{ user.login }}">GitHub</a> •
+  <a href="https://gist.github.com/{{ user.login }}">Gists</a> •
+  <a href="https://github.com/{{ user.login }}?tab=repositories">Repos</a>
+</p>
+
+> {{ user.bio or "Desarrolladora Full-Stack con experiencia en Python, JavaScript y desarrollo de aplicaciones web. Apasionada por la resolución de problemas y la creación de soluciones eficientes." }}
+
+---
+
+### ⚡ Stats rápidas
+- Seguidores: **{{ user.followers }}**
+- Siguiendo: **{{ user.following }}**
+- Repos públicos: **{{ user.public_repos }}**
+- Gists: **{{ user.public_gists }}**
+- Ubicación: **{{ user.location or "N/A" }}**
+
+### 🧠 Top lenguajes
+{% if top_languages %}
+{% for lang, pct in top_languages %}- {{ lang }} — {{ "%.1f"|format(pct) }}%
+{% endfor %}
+{% else %}
+*(Aún sin datos de lenguajes)*
+{% endif %}
+
+### ⭐ Repos destacados
+{% if top_repos %}
+{% for r in top_repos -%}
+- [{{ r.name }}]({{ r.html_url }}) — ⭐ {{ r.stargazers_count }} • {{ r.language or "Mixed" }} • {{ r.description or "" }}
+{% endfor %}
+{% else %}
+*(Aún sin repos con estrellas. ¡Es hora de brillar!)*
+{% endif %}
+
+### 🛠️ Últimos proyectos actualizados
+{% for r in recent_repos %}- [{{ r.name }}]({{ r.html_url }}) — actualizado {{ r.pushed_at_human }}
+{% endfor %}
+
+---
+
+<sub>Generado por un script en Python con la API de GitHub. Última build: {{ now_iso }}.</sub>
