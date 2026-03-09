@@ -1,86 +1,43 @@
-# GitHub Portfolio Generator
+<h1 align="center">LauraFernandezBatista — Full‑stack developer · Automatización · APIs</h1>
 
-Herramienta en **Python** que genera automáticamente un README de portfolio para GitHub utilizando la API pública de GitHub.
+<p align="center">
+  <a href="https://github.com/LauraFernandezBatista">GitHub</a> •
+  <a href="https://gist.github.com/LauraFernandezBatista">Gists</a> •
+  <a href="https://github.com/LauraFernandezBatista?tab=repositories">Repos</a>
+</p>
 
-El script obtiene información del perfil (repositorios, estadísticas y actividad reciente) y genera un `README.md` dinámico a partir de una plantilla **Jinja2**.
-
-Esto permite crear o actualizar un README de perfil sin tener que escribirlo manualmente.
-
----
-
-# Tecnologías
-
-* Python
-* GitHub API
-* Requests
-* Jinja2
+> Desarrolladora Full-Stack con experiencia en Python, JavaScript y desarrollo de aplicaciones web. Apasionada por la resolución de problemas y la creación de soluciones eficientes.
 
 ---
 
-# Instalación
+### ⚡ Stats rápidas
+- Seguidores: **1**
+- Siguiendo: **0**
+- Repos públicos: **6**
+- Gists: **0**
+- Ubicación: **N/A**
 
-Clona el repositorio:
+### 🧠 Top lenguajes
+- JavaScript — 66.7%
+- PHP — 16.7%
+- Python — 16.7%
 
-```
-git clone https://github.com/LauraFernandezBatista/github-portfolio-generator.git
-```
+### ⭐ Repos destacados
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — ⭐ 0 • JavaScript • 
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — ⭐ 0 • PHP • 
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — ⭐ 0 • JavaScript • 
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — ⭐ 0 • Python • 
+- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — ⭐ 0 • JavaScript • 
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 
-Entra en la carpeta del proyecto:
-
-```
-cd github-portfolio-generator
-```
-
-Instala las dependencias:
-
-```
-pip install -r requirements.txt
-```
-
----
-
-# Uso
-
-Ejecuta el script indicando tu usuario de GitHub:
-
-```
-python generator.py --username TU_USUARIO_GITHUB
-```
-
-Ejemplo:
-
-```
-python generator.py --username LauraFernandezBatista
-```
-
-El script generará automáticamente el archivo `README.md` con la información del perfil.
+### 🛠️ Últimos proyectos actualizados
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 18h
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 18h
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 19h
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 19h
+- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 19h
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 5 meses
 
 ---
 
-# Nota importante
-
-⚠️ Cada vez que se ejecuta el script, el archivo `README.md` se **sobrescribe** con el contenido generado a partir de la plantilla.
-
-Si deseas conservar una versión anterior, guarda una copia antes de ejecutar el script nuevamente.
-
----
-
-# Estructura del proyecto
-
-```
-.
-├── generator.py
-├── template.md.j2
-├── requirements.txt
-└── .github/workflows
-```
-
----
-
-# Posibles mejoras
-
-* Añadir más estadísticas del perfil
-* Permitir seleccionar repositorios destacados
-* Generar gráficos de actividad
-* Añadir personalización de la plantilla
-
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-03-09T10:08:32Z.</sub>
