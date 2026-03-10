@@ -19,25 +19,25 @@
 
 ### 🧠 Top lenguajes
 - JavaScript — 66.7%
-- PHP — 16.7%
 - Python — 16.7%
+- PHP — 16.7%
 
 ### ⭐ Repos destacados
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — ⭐ 0 • Python • 
 - [movie-search](https://github.com/LauraFernandezBatista/movie-search) — ⭐ 0 • JavaScript • 
 - [tienda](https://github.com/LauraFernandezBatista/tienda) — ⭐ 0 • PHP • 
 - [todo-list](https://github.com/LauraFernandezBatista/todo-list) — ⭐ 0 • JavaScript • 
-- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — ⭐ 0 • Python • 
 - [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — ⭐ 0 • JavaScript • 
 - [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 
 ### 🛠️ Últimos proyectos actualizados
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 18h
-- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 18h
-- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 19h
-- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 19h
-- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 19h
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 23h
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 1d
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 1d
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 1d
+- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 1d
 - [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 5 meses
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-03-09T10:08:32Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-03-10T10:01:26Z.</sub>
