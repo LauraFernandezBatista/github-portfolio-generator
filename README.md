@@ -40,4 +40,4 @@
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-06-07T11:16:36Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-06-08T13:16:28Z.</sub>
