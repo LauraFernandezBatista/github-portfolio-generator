@@ -32,12 +32,12 @@
 
 ### 🛠️ Últimos proyectos actualizados
 - [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 23h
-- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 5 meses
-- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 5 meses
-- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 5 meses
-- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 5 meses
+- [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 6 meses
+- [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 6 meses
+- [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 6 meses
+- [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 6 meses
 - [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 11 meses
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-09-04T13:33:32Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-09-05T12:45:09Z.</sub>
