@@ -36,8 +36,8 @@
 - [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 6 meses
 - [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 6 meses
 - [gestor-recetas](https://github.com/LauraFernandezBatista/gestor-recetas) — actualizado hace 6 meses
-- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 11 meses
+- [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — actualizado hace 1 años
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-09-13T13:48:45Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-09-14T15:54:21Z.</sub>
