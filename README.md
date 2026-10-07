@@ -31,7 +31,7 @@
 - [simulador-clima](https://github.com/LauraFernandezBatista/simulador-clima) — ⭐ 0 • JavaScript • 
 
 ### 🛠️ Últimos proyectos actualizados
-- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 21h
+- [github-portfolio-generator](https://github.com/LauraFernandezBatista/github-portfolio-generator) — actualizado hace 1d
 - [movie-search](https://github.com/LauraFernandezBatista/movie-search) — actualizado hace 7 meses
 - [tienda](https://github.com/LauraFernandezBatista/tienda) — actualizado hace 7 meses
 - [todo-list](https://github.com/LauraFernandezBatista/todo-list) — actualizado hace 7 meses
@@ -40,4 +40,4 @@
 
 ---
 
-<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-10-06T15:58:48Z.</sub>
+<sub>Generado por un script en Python con la API de GitHub. Última build: 2026-10-07T16:33:38Z.</sub>
